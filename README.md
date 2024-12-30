@@ -79,8 +79,8 @@ Foi gerado um **heatmap** para analisar a correlação entre as variáveis numé
 
 O heatmap ajudou a entender como essas variáveis se comportam em relação ao preço, indicando quais colunas podem ter maior impacto na previsão do preço dos imóveis.
 
-**Distribuição das Variáveis**
+**Distribuição das Variáveis**:
 Utilizando a biblioteca Plotly, foram criados gráficos interativos para visualizar a distribuição das colunas numéricas e categóricas. Isso facilitou a análise visual das distribuições e ajudou a identificar padrões importantes nos dados.
 
-**Gráficos de Relações entre Colunas com Alta Correlação**
+**Gráficos de Relações entre Colunas com Alta Correlação**:
 Além do heatmap, outros gráficos foram criados para representar as relações de alta correlação entre as variáveis. Esses gráficos permitiram uma melhor compreensão de como as variáveis se comportam juntas, ajudando a identificar quais características são mais relevantes para prever o preço dos imóveis. Essas visualizações foram fundamentais para tomar decisões durante a modelagem e análise dos dados, além de fornecer insights valiosos sobre as características que influenciam o preço dos imóveis.
